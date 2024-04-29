@@ -1,7 +1,7 @@
 # OperaGAN
 The code for the paper "OperaGAN: A Simultaneous Transfer Network for Opera Makeup and Complex Headwear"
 ## Prepare
-The pre-trained model is avaiable at https://drive.google.com/drive/folders/1TDJIGVgrt46PnouJpHDvzAR2wRbJ-8iW?usp=drive_link
+The trained model of this paper is available at https://drive.google.com/drive/folders/1TDJIGVgrt46PnouJpHDvzAR2wRbJ-8iW?usp=drive_link
 
 Environments:python=3.8, pytorch=1.6.0, Ubuntu=20.04.1 LTS
 
