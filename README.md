@@ -18,9 +18,9 @@ Use `python sc.py --phase train` to train
 ### 1.Global Makeup Transfer
 `python sc.py --phase test`
 
-![Global Makeup Transfer](https://github.com/)
+![Global Makeup Transfer](https://github.com/Ivychun/OperaGAN/blob/main/global_transferred.jpg)
 ### 2.Global Interpolation
 `python sc.py --phase test --interpolation`
 
-![Global Interpolation](https://github.com/)
+![Global Interpolation](https://github.com/Ivychun/OperaGAN/blob/main/global_interpolation_transferred.jpg)
 
