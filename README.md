@@ -3,6 +3,10 @@ The code for the paper "OperaGAN: A Simultaneous Transfer Network for Opera Make
 ## Prepare
 The trained model of this paper is available at https://drive.google.com/drive/folders/1TDJIGVgrt46PnouJpHDvzAR2wRbJ-8iW?usp=drive_link
 
+vgg_conv.pth:https://drive.google.com/file/d/1JNrSVZrK4TfC7pFG-r7AOmGvBXF2VFOt/view?usp=sharing
+
+Put the G.pth and VGG weights in "./checkpoints" and "./" respectively.
+
 Environments:python=3.8, pytorch=1.6.0, Ubuntu=20.04.1 LTS
 
 Generate the blending result of the source image and the reference image using the Poisson blending method and save it in ./Xiqu-Dataset/blend. 
